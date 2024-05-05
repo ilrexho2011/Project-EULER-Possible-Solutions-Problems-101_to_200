@@ -5,6 +5,7 @@
 #define PRIMES 100000
 long primes[PRIMES];
 
+
 bool stop = false;
 int count = 0;
 
